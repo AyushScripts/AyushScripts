@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Ayush Bhattacharjee
-- 🌱 I’m currently learning Web3
-- 💞️ I’m looking to collaborate on frontend and/or full-stack(MERN) projects.
-- 📫 You can reach me at ayushtheking117@gmail.com
-- ✨ You can also have a look at my portfolio- https://ayushscripts.vercel.app
+- 📫 You can reach me at howdyayush04@gmail.com
+- ✨ You can also have a look at my portfolio- https://steadfasthq.co
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am rated 1700 in chess (top 1.5%ile on earth)
+- ⚡ Fun fact: I am rated 1800 in chess (top 1.5%ile on earth)
 
 <!---
 AyushScripts/AyushScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
